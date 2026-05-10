@@ -4,8 +4,8 @@ from pyrogram import Client
 from pyrogram.raw import functions, types
 
 # --- CONFIGURATION ---
-API_ID = 26581404  # Apna API ID daalein
-API_HASH = "7e71f548d8868c68832a76f663f73587"  # Apna API Hash daalein
+API_ID = 24676264  # Apna API ID daalein
+API_HASH = "e04ebd801c8ae8b26986c482fb31f853"  # Apna API Hash daalein
 
 # Saare Target Links aur Admin Username
 TARGETS = [
