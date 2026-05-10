@@ -1,8 +1,8 @@
 from pyrogram import Client
 
 # Fresh API Credentials
-api_id = 23783705
-api_hash = "6f809d472288011c75026774e64f77c0"
+api_id = 24676264
+api_hash = "e04ebd801c8ae8b26986c482fb31f853"
 
 print("--- Telegram Session Generator ---")
 name = input("Account ka naam rakhein (e.g. acc1): ")
